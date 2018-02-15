@@ -1,2 +1,2 @@
 # hello-world
-this is for test
+I'm Majid Zareei and this is just for test.
